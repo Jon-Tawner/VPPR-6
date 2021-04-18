@@ -8,7 +8,7 @@ namespace VPPR2
 
 		private int count_gold = 500,
 					gold_speed = 0,
-					My_soldiers = 30,
+					My_soldiers = 100,
 					Enemy_soldier = 12404254;
 
 		private Timer timer;
@@ -32,7 +32,7 @@ namespace VPPR2
 				i = 0;
 			}
 
-			
+
 
 			label2.Text = "Количество золота: " + count_gold.ToString()+"г.";
 			label5.Text = "Скорость добычи золота: " + gold_speed.ToString()+"г/с";
@@ -56,7 +56,7 @@ namespace VPPR2
 		}
 
 		private void Form2_Load(object sender, EventArgs e){
-			
+
 		}
 
 		private void label1_Click(object sender, EventArgs e){
