@@ -1,0 +1,11 @@
+D:\Языки программирования\ProgramsC#\VPPR2\bin\Debug\VPPR2.exe.config
+D:\Языки программирования\ProgramsC#\VPPR2\bin\Debug\VPPR2.exe
+D:\Языки программирования\ProgramsC#\VPPR2\bin\Debug\VPPR2.pdb
+D:\Языки программирования\ProgramsC#\VPPR2\obj\Debug\VPPR2.csprojAssemblyReference.cache
+D:\Языки программирования\ProgramsC#\VPPR2\obj\Debug\VPPR2.Form1.resources
+D:\Языки программирования\ProgramsC#\VPPR2\obj\Debug\VPPR2.Properties.Resources.resources
+D:\Языки программирования\ProgramsC#\VPPR2\obj\Debug\VPPR2.csproj.GenerateResource.cache
+D:\Языки программирования\ProgramsC#\VPPR2\obj\Debug\VPPR2.csproj.CoreCompileInputs.cache
+D:\Языки программирования\ProgramsC#\VPPR2\obj\Debug\VPPR2.exe
+D:\Языки программирования\ProgramsC#\VPPR2\obj\Debug\VPPR2.pdb
+D:\Языки программирования\ProgramsC#\VPPR2\obj\Debug\VPPR2.Form2.resources
