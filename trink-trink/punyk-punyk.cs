@@ -1,2 +1,0 @@
-fank-fank
-pam-pam
